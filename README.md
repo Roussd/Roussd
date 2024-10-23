@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋 I'm Rocío</h1>
-<p align="center">✨ Computer Science and Software Engineering ✨</p>
+<p align="center">✨ Computer Science and Software Engineering Student ✨</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Roussd&label=Profile%20Views&color=FFD700&style=flat-square" alt="Profile Views" />
