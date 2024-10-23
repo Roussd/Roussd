@@ -2,7 +2,7 @@
 <p align="center">✨ Computer Science and Software Engineering ✨</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=FFD700&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Roussd&label=Profile%20Views&color=FFD700&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -37,8 +37,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=gruvbox" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Roussd&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roussd&theme=gruvbox" alt="GitHub Streak" />
 </p>
 
 ---
