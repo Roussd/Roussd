@@ -11,11 +11,11 @@
 ---
 
 ## 🌸 About Me  
-- 💻 Passionate about **web development** and interactive design  
+- 🎓 **Software Engineer** | Graduate from Universidad del Bío-Bío
+- 💻 Passionate about **Full-Stack development** and the integration of **Artificial Intelligence** 🤖
 - 🎨 I love **Photoshop editing** and everything related to digital creativity  
 - 📚 Avid reader & gamer, especially **The Sims** 🏡  
-- 🌱 Currently learning **Firebase and TypeScript** to enhance my dev skills  
-- 🎯 My goal: Become a **Full-Stack Developer**  
+- 🎯 My goal: Develop innovative software products powered by **AI**
 
 ---
 
