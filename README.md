@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hello! I'm Rocío ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&color=FFB6C1&center=true&vCenter=true&width=600&height=50&lines=Web+Developer+in+Progress;Passionate+about+Creativity+%26+Design;Tech+Enthusiast+%26+Photoshop+Lover;Welcome+to+my+profile!+🌸" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&color=FFB6C1&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Passionate+about+Creativity+%26+Design;Tech+Enthusiast+%26+Photoshop+Lover;Welcome+to+my+profile!+🌸" alt="Typing SVG" />
 </p>
 
 <p align="center">
